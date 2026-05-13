@@ -1,1 +1,3 @@
 my github learning curve phase 2
+i successfully push my task2.txt from working space to git
+edited
